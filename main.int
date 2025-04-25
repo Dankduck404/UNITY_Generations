@@ -1,12 +1,12 @@
 // BEGIN_INTERNALS
 /*
-MAP_PLANE_MASTERS: (null)
+MAP_PLANE_MASTERS: 
 MAP_ZOOM: 1.000
-DIR: icons 
+DIR: turfs 
 AUTO_FILE_DIR: ON
 MAP_ICON_TYPE: 0
-WINDOW: main.dm;skin.dmf;skin.dmi
-FILE: skin.dmi
+WINDOW: main.dm;skin.dmf;skin.dmi;mainmenu_newloadgame.dmi;turfs\turfs.dmi;turfs\grass.dmi;turfs.dm;testvegeta.dmm
+FILE: testvegeta.dmm
 MAP_INSTANCE_MODE: copy
 */
 // END_INTERNALS
